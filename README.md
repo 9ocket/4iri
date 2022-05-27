@@ -1,16 +1,10 @@
 这里是4iri，一只 常驻 Github の普通吸血鬼..
 
-平时喜欢用python开发一些奇奇怪怪的东西
-
-个人网站侧栏有，欢迎大家访问，与我联系可以发邮件
+可能是 Web 全栈 正在试图加入 Web3.0 世界
 
 ---
 
 Hello everyone, this is 4iri, a regular vampire who lives on Github...
-
-A python user, always use it to develop something
-
-My website has been added to sidebar, you may find it. Welcome to all of you to visit my website!
 
 ---
 #### Statistical data
